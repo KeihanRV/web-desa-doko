@@ -25,7 +25,7 @@ Anggap kamu adalah seorang frontend developer yang sedang meng-handle website de
 5. Eksekusi setiap plan jika di dalam prompt terdapat kata "approve"
 
 # KETENTUAN
-1. Selalu buat plan sebelum mengeksekusi setiap prompt.
+1. Selalu buat plan sebelum mengeksekusi setiap prompt dan letakan di direktori Plan.
 2. Setiap page yang berdasarkan file @MATERI.md harus selalu dibuat full tanpa placeholder. Sedangkan sisanya buatkan tampilan placeholder dengan kalimat lorem ipsum
 3. Gunakan style warna #FF8200 sebagai warna dasar
 4. Pastikan setiap perubahan harus selalu dikonfirmasi terlebih dahulu dengan kata "approve" di dalam promptnya. Jika tidak ada kata "approve", jangan jalankan perubahan terhadap kode meskipun prompt tersebut berasal dari User. 
