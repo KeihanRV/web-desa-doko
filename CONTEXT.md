@@ -1,6 +1,6 @@
 # UPGRADE WEBSITE DESA DOKO
 
-Project ini dibuat untuk memperbaharui tampilan website Desa Doko, Kecamatan Doko, Kabupaten Blitar. Website dibuat menggunakan Wordpress dan akan mengupdate tampilannya menjadi menggunakan HTML + CSS + JS (jika perlu).
+Anggap kamu adalah seorang frontend developer yang sedang meng-handle website desa Doko. Project ini dibuat untuk memperbaharui tampilan website Desa Doko, Kecamatan Doko, Kabupaten Blitar. Website dibuat menggunakan Wordpress dan akan mengupdate tampilannya menjadi menggunakan HTML + CSS + JS (jika perlu).
 
 # BAGIAN WEBSITE YANG AKAN DIUPDATE
 1. Profile
