@@ -32,7 +32,8 @@
           </div>
 
           <div class="image-wrapper">
-            <img src="../../Source/placeholder.png" alt="Ilustrasi visi pembangunan Desa Doko" class="feature-image" />
+            <!-- <img src="../../Source/placeholder.png" alt="Ilustrasi visi pembangunan Desa Doko" class="feature-image" /> -->
+            <img src="https://doko-doko.desa.id/wp-content/uploads/2026/07/desa-doko-1.jpeg" alt="Ilustrasi visi pembangunan Desa Doko" class="feature-image" />
             <p class="image-caption">Ilustrasi visual yang memperkuat semangat pembangunan desa yang mandiri dan sejahtera.</p>
           </div>
         </div>
@@ -170,7 +171,8 @@
                     </ul>
                   </div>
                   <div class="strategy-image">
-                    <img src="../../Source/placeholder.png" alt="Ilustrasi pelayanan dasar desa" />
+                    <!-- <img src="../../Source/placeholder.png" alt="Ilustrasi pelayanan dasar desa" /> -->
+                    <img src="https://doko-doko.desa.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-01-at-13.44.25.jpeg" alt="Ilustrasi pelayanan dasar desa" />
                   </div>
                 </div>
               </div>
@@ -187,7 +189,8 @@
                     </ul>
                   </div>
                   <div class="strategy-image">
-                    <img src="../../Source/placeholder.png" alt="Ilustrasi prasarana desa" />
+                    <!-- <img src="../../Source/placeholder.png" alt="Ilustrasi prasarana desa" /> -->
+                    <img src="https://doko-doko.desa.id/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-01-at-13.44.25.jpeg" alt="Ilustrasi prasarana desa" />
                   </div>
                 </div>
               </div>
@@ -214,7 +217,7 @@
         margin-bottom: 35px;
         padding: 60px 24px;
         border-radius: 20px;
-        background: linear-gradient(135deg, rgba(15, 23, 42, 0.72), rgba(255, 130, 0, 0.65)), url("../../Source/foto.JPG");
+        background: linear-gradient(135deg, rgba(15, 23, 42, 0.72), rgba(255, 130, 0, 0.65)), url("https://doko-doko.desa.id/wp-content/uploads/2026/07/desa-doko-1.jpeg");
         background-size: cover;
         background-position: center;
         box-shadow: 0 16px 35px rgba(15, 23, 42, 0.14);
@@ -399,10 +402,15 @@
       }
       .strategy-content {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         gap: 16px;
+        align-items: center;
+      }
+      .strategy-text {
+        flex: 1;
       }
       .strategy-image {
+        flex: 1;
         width: 100%;
       }
       .strategy-image img {
@@ -458,16 +466,6 @@
         }
         .goal-grid {
           grid-template-columns: repeat(2, minmax(0, 1fr));
-        }
-        .strategy-content {
-          flex-direction: row;
-          align-items: center;
-        }
-        .strategy-text {
-          flex: 1;
-        }
-        .strategy-image {
-          flex: 0 0 280px;
         }
       }
     </style>

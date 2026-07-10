@@ -9,7 +9,7 @@ Anggap kamu adalah seorang frontend developer yang sedang meng-handle website de
     - Visi & Misi : berisi rangkaian visi misi desa berdasarkan file @MATERI.md
     - Sejarah Desa : berisi rangkaian sejarah dewa berdasarkan file @MATERI.md
     - Struktur Organisasi : berisi struktur organisasi yang merupakan design file png dan card scrollable horizontal untuk setiap jajaran perangkat desa
-    - Daftar Kepala Desa Terdahulu : berisi daftar kepala desa terdahulu dari awal hingga saat ini berdasarkan file @MATERI.md
+    - Daftar Kepala Desa Terdahulu : berisi daftar kepala desa terdahulu dari awal hingga saat ini berdasarkan file @MATERI.md. Tampilan seperti sebuah garis timeline dari awal desa Doko berdiri hingga sekarang.
 2. Infografis Transparansi
     Berbentuk page HTML dengan ekstensi API untuk diagram yang berisi informasi tentang :
     - Jumlah penduduk Desa Doko
